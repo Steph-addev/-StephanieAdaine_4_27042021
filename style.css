@@ -195,7 +195,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 0, 0.66);
 }
 
 .d-bloc .panel button:hover,
@@ -1026,6 +1026,9 @@ h4 {
     width: 180px;
     height: 320px;
   }
+}
+.partlinks > a {
+  color: black !important;
 }
 
 @media (max-width: 400px) {
